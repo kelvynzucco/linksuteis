@@ -20,3 +20,7 @@ O "Links Úteis" é um agregador de links para usar como cartão de visitas onli
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## 🖼️ Exemplo
+
+![Página de links](https://github.com/kelvynzucco/linksuteis/assets/139009934/ddd0b609-546a-472d-a65f-9bedb51b69e3)
